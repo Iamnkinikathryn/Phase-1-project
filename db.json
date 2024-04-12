@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "university": "Updated University",
+      "location": "Updated Location",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Bob",
+      "university": "Kenyatta University",
+      "location": "Nairobi"
+    },
+    {
+      "id": "3",
+      "firstName": "Carol",
+      "university": "Moi University",
+      "location": "Eldoret"
+    },
+    {
+      "id": "4",
+      "firstName": "David",
+      "university": "Technical University of Kenya",
+      "location": "Nairobi"
+    },
+    {
+      "id": "5",
+      "firstName": "Eve",
+      "university": "Jomo Kenyatta University of Agriculture and Technology",
+      "location": "Thika"
+    },
+    {
+      "id": "6",
+      "firstName": "Frank",
+      "university": "Maseno University",
+      "location": "Kisumu"
+    },
+    {
+      "id": "7",
+      "firstName": "Grace",
+      "university": "Egerton University",
+      "location": "Njoro"
+    },
+    {
+      "id": "8",
+      "firstName": "Henry",
+      "university": "Africa Nazarene University",
+      "location": "Ongata Rongai"
+    },
+    {
+      "id": "9",
+      "firstName": "Ivy",
+      "university": "Daystar University",
+      "location": "Athi River"
+    },
+    {
+      "id": "10",
+      "firstName": "Mitchel",
+      "university": "Strathmore University",
+      "location": "Nairobi"
+    }
+  ]
+}j

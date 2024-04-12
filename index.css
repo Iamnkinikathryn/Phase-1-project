@@ -1,0 +1,46 @@
+* {
+    background-color: skyblue;
+}
+.header {
+    margin: 0 auto;
+    width: 420px;
+    text-align: center;
+}
+.form-control {
+    width: 420px;
+    margin: 12px auto;
+    border: none;
+    padding: 16px 12px;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: aliceblue;
+ }
+.form-control label {
+    display: block;
+    margin-bottom: 8px;
+    background-color: aliceblue;
+}
+.form-control input {
+    padding: 13px;
+    border-radius: 6px;
+    border: 1px solid darkgray;
+    background-color: aliceblue;    
+}
+.form-control button {
+    display: inline-block;
+    padding: 12px;
+    background: blue;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    margin-left: 8px;
+    cursor: pointer;
+}
+.form-control h2 {
+    text-align: center;
+    background-color: aliceblue;
+}
+.form-control p {
+    background-color: aliceblue;
+}
